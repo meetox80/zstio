@@ -8,5 +8,5 @@
 	<p align="center">
 		<img src="https://github.com/meetox80/zstio/blob/main/misc/bcu/img/badges/kpu.png?raw=true">
 		<img src="https://github.com/meetox80/zstio/blob/main/misc/bcu/img/badges/nextgenerationeu.png?raw=true">
-`	<p>
+	<p>
 </p>
