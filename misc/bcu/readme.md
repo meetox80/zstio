@@ -1,6 +1,5 @@
 <p align="center">
-	**BCU – Branżowe Centrum Umiejętności**
-
+	<b>BCU – Branżowe Centrum Umiejętności</b>
 	<hr>
 
 	<p align="center">
