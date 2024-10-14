@@ -1,9 +1,11 @@
-<p align="center">
-	<b>BCU – Branżowe Centrum Umiejętności</b>
-	<p align="center">
-		Powiat Jarosławski realizuje przedsięwzięcie: pn."Branzowe Centrum Umiejętności w dziedzinie elektroniki przy Zespole Szkól Technicznych i Ogólnokształcących w Jarosławiu".
-	</p>
-</p>
+# BCU - Branżowe Centrum Umiejętności
+Branżowe Centra Umiejętności BCU, są nowoczesnymi pod względem technologicznym ośrodkami kształcenia i egzaminowania w danej branży, mające zapewnić wsparcie istniejącym placówkom edukacyjnym i umożliwić tworzenie nowych.
+
+Podstawowym zadaniem BCU będzie rozwój szkolnictwa zawodowego. BCU to inwestycja za ponad 1,4 miliarda złotych polegająca na utworzeniu i wsparciu 120 nowoczesnych branżowych centrów umiejętności, realizujących koncepcję centrów doskonałości zawodowej (CoVEs) z Krajowego Planu Odbudowy i Zwiększania Odporności w partnerstwie podmiotów branżowych oraz organów prowadzących szkoły kształcące w zawodach i centra kształcenia zawodowego.
+
+Formuła BCU jest nowością w systemie oświaty, wykraczającą poza dotychczasowe tradycyjne modele kształcenia, szkolenia i doskonalenia zawodowego. Centra będą zaawansowanymi technologicznie ośrodkami kształcenia, szkolenia i egzaminowania w danej branży.
+
+<br>
 
 <p align="center">
 	<hr>
