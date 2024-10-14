@@ -18,11 +18,10 @@ Formuła BCU jest nowością w systemie oświaty, wykraczającą poza dotychczas
 		$${\color{gray}Dofinansowanie \space z \space UE: \space 13 \space 000 \space 000,00 \space PLN}$$
 	</p>
 	<p align="center">
+		<a href="https://github.com/meetox80/zstio/blob/main/misc/bcu/podstawy.md">/podstawy</a>
+	</p>
+	<p align="center">
 		<img src="https://github.com/meetox80/zstio/blob/main/misc/bcu/img/badges/kpu.png?raw=true">
 		<img src="https://github.com/meetox80/zstio/blob/main/misc/bcu/img/badges/nextgenerationeu.png?raw=true">
 	<p>
-</p>
-
-<p align="center">
-	<a href="https://github.com/RedefinedVision/core">/podstawy</a>
 </p>
