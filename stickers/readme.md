@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>stickers around the school</h1>
-</p>
+# stickers around the school
 
 
 | Location               | Preview                                                                                             | Updated Image                                                                                              |
