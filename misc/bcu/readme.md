@@ -1,5 +1,7 @@
-# BCU – Branżowe Centrum Umiejętności
-
 <p align="center">
-	<img src="https://github.com/meetox80/zstio/blob/main/misc/bcu/img/plakat.png?raw=true">
+	**BCU – Branżowe Centrum Umiejętności**
+
+	<hr>
+
+	<p>Powiat Jarosławski realizuje przedsięwzięcie: pn."Branzowe Centrum Umiejętności w dziedzinie elektroniki przy Zespole Szkól Technicznych i Ogólnokształcących w Jarosławiu".</p>
 </p>
