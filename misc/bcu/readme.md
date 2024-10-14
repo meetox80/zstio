@@ -5,6 +5,7 @@ Podstawowym zadaniem BCU będzie rozwój szkolnictwa zawodowego. BCU to inwestyc
 
 Formuła BCU jest nowością w systemie oświaty, wykraczającą poza dotychczasowe tradycyjne modele kształcenia, szkolenia i doskonalenia zawodowego. Centra będą zaawansowanymi technologicznie ośrodkami kształcenia, szkolenia i egzaminowania w danej branży.
 
+<br>
 
 | 15 h  | Uczestnik otrzymuje zaświadczenie o ukończeniu szkolenia branżowego |
 | ----- | ------------------------------------------------------------------- |
