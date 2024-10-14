@@ -7,6 +7,11 @@ Formuła BCU jest nowością w systemie oświaty, wykraczającą poza dotychczas
 
 <br>
 
+| 15 h  | Uczestnik otrzymuje zaświadczenie o ukończeniu szkolenia branżowego |
+| ----- | ------------------------------------------------------------------- |
+| 30 h  | Uczestnik otrzymuje branżowy certyfikat umiejętności                |
+| 120 h | Uczestnik otrzymuje branżowy certyfikat kwalifikacji                |
+
 <p align="center">
 	<hr>
 	<p align="center">
