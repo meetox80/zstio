@@ -11,7 +11,7 @@ Poniżej najważniejsze akty prawne istotne dla funkcjonowania Branżowego Centr
 4. Rozporządzenie Ministra edukacji Narodowej z dnia 12 lutego 2019r. w sprawie doradztwa zawodowego (Dz.U. 2019 poz. 325). 
 5. Rozporządzenie Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego i egzaminu potwierdzającego kwalifikacje w zawodzie (Dz.U. 2023 poz. 2058). 
 6. Projekt „Utworzenie i wsparcie funkcjonowania Branżowego Centrum Umiejętności realizującego koncepcję centrum doskonałości zawodowej (CoVEs) dla dziedziny elektroniki.” – KPO/22/1/BCU/U/0028 oraz Umowa KPO/22/BCU/U/0072.
-7. 
+
 <hr>
 
 <p align="center">

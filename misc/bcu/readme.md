@@ -22,3 +22,7 @@ Formuła BCU jest nowością w systemie oświaty, wykraczającą poza dotychczas
 		<img src="https://github.com/meetox80/zstio/blob/main/misc/bcu/img/badges/nextgenerationeu.png?raw=true">
 	<p>
 </p>
+
+<p align="center">
+	<a href="https://github.com/RedefinedVision/core">/podstawy</a>
+</p>
