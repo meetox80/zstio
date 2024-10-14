@@ -1,8 +1,6 @@
 # PODSTAWY PRAWNE
 Podstawy funkcjonowania branżowych centrów umiejętności stworzyła ustawa z dnia 30 sierpnia 2023 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw, która weszła w życie 27 września 2023.
 
-<hr>
-
 Poniżej najważniejsze akty prawne istotne dla funkcjonowania Branżowego Centrum Umiejętności w dziedzinie elektroniki przy Zespole Szkół Technicznych i Ogólnokształcących w Jarosławiu.
 
 1. Ustawa z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2023 r. poz. 900 z późn. zm.). 
